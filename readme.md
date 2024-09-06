@@ -22,3 +22,9 @@ This project solves the Aircraft Runway Scheduling Problem using a Genetic Algor
 -   **Crossover**: Selected schedules are combined to create new offspring.
 -   **Mutation**: Random changes are introduced to maintain diversity in the population.
 -   **Termination**: The process repeats for a defined number of generations, or until an optimal solution is found.
+
+## Running the program
+
+```python
+python main.py
+```
